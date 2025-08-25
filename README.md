@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **allid13/allid13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning how to get more comfortable with this web and hopefully when I do I will be able to achieve many great things and do many amazing projects.
@@ -9,4 +9,3 @@
 - 📫 How to reach me: email: aduran51@cps.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a cat named Nala. 
-
